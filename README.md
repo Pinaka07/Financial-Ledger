@@ -1,4 +1,5 @@
 # Wallet & Ledger System (LLD project)
+[![CI](https://github.com/Pinaka07/Financial-Ledger/actions/workflows/tests.yml/badge.svg)](https://github.com/Pinaka07/Financial-Ledger/actions/workflows/tests.yml)
 
 An in-memory wallet and double-entry ledger engine — the core logic behind
 a UPI/wallet-style payment flow, without any web framework or database
